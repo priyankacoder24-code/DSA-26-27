@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0242-valid-anagram) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
 |  |
