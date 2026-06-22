@@ -1,12 +1,18 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        alltypes = {"]":"[" , "}" : "{" , ")" : "("}
         stack = []
+        pairs = {
+            ')': '(',
+            '}': '{',
+            ']': '['
+        }
 
-        for c in s:
-            if stack and c in alltypes and stack[-1] == alltypes[c]:
-                stack.pop()
-            else:
-                stack.append(c)
-        return True if len(stack)==0 else False
+        for char in s:
+            if char in pairs.values():  # opening bracket
+                stack.append(char)
+            else:  # closing bracket
+                if not stack or stack.pop() != pairs[char]:
+                    return False
+
+        return len(stack) == 0
         
