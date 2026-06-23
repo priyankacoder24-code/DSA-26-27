@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
