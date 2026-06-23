@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0189-rotate-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0509-fibonacci-number) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
