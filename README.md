@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0189-rotate-array) |
