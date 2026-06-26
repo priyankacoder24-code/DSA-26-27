@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0088-merge-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0088-merge-sorted-array) |
