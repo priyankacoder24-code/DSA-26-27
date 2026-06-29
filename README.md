@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0102-binary-tree-level-order-traversal) |
 ## String Matching
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/1757-recyclable-and-low-fat-products) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
