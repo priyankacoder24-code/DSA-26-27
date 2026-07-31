@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0509-fibonacci-number) |
+| [2427-number-of-common-factors](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/2427-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/priyankacoder24-code/DSA-26-27/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
